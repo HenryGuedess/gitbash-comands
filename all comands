@@ -1,1 +1,3 @@
 Force Gitpush - git push --force
+Node modules no git - git rm -r --cached node_modules .next out
+
